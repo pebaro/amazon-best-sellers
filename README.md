@@ -7,7 +7,9 @@
 - after changing the name in the package.json/lock files this code can now be tested again in a dev environment
 
 
-  
-## run the following:
+- - - - -
+
+
+### run the following:
   #### npm install
   #### npm start
