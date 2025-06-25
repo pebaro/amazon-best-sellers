@@ -8,6 +8,6 @@
 
 -- -- -- -- --
   
-- run the following:
-  - npm install
-  - npm start
+## run the following:
+  #### npm install
+  #### npm start
